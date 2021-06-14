@@ -1,0 +1,7 @@
+{
+    "member": [
+        {"nama": "jackies", "skill": "tendangan beracun"}, 
+        {"nama": "yip", "skill": "wingchun"}, 
+        {"nama": "songoku", "skill": "kamekameha"}
+        ]
+}
