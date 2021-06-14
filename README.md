@@ -1,5 +1,5 @@
 # Learning Python
-Python adalah salah satu bahasa pemrograman. Selain digunakan untuk membuat website ada banyak hal-hal yang berkaitan dengan data science seperti Artificial Intelligence, Machine Learning dan banyak lagi!
+Python adalah salah satu bahasa pemrograman. Selain digunakan untuk membuat website ada banyak hal-hal yang berkaitan dengan data science seperti Artificial Intelligence, Machine Learning dan lainnya.
 
 ## Materi Learning Python
 - Tipe Data,
